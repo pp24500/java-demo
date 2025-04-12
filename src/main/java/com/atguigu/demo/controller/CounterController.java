@@ -9,6 +9,6 @@ public class CounterController {
 	
 	@GetMapping("/hello")
 	public String count() {
-		return "+++chengziyu";
+		return "+++chengziyu+++";
 	}
 }
